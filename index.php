@@ -1,39 +1,41 @@
 <!DOCTYPE html>
 
 <html lang="th">
+    
     <head>
-        <style>
-            h1 {text-align: center;}
-            h2 {text-align: center;}
-            h3 {text-align: center;}
-            li {text-align: center;}
-            img {
-                display: block;
-                margin-left: auto;
-                margin-right: auto;
-                }
-        </style>
-        <meta charset="UTF-8">
         <title>620710159</title>
     </head>
     <body>
-        <h1 style="color:Blue;border: 2px solid black;"><b>"Nat Thitimathanyakul"</b></h1>
-        <img src="https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.15752-9/131581413_450042149712824_743369365698914889_n.jpg?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_eui2=AeGTFr1SiN7kD12flk3Ua4zXi3RiUXS9hM6LdGJRdL2Ezq6MwayfombLKxtRFjq-AYpWxsV0HfU6m6Nf3HvMNebD&_nc_ohc=vfHzk_p1LAcAX-MhOr5&_nc_ht=scontent.fbkk12-2.fna&oh=21caff1680e96f0daf541f9b2618c7fa&oe=6004977B" width="350" height="340">
-        
-        <h2><u>My Nickname is Jam.</u></h2>
-        <h3 style="color:MediumSeaGreen;">I am from Kanchanaburi.</h3>
-        <h3 style="color:MediumSeaGreen;">Birth date : 16/04/2544</h3>
-        <h3 style="color:MediumSeaGreen;">favorite color : Red,Blue</h3>
-        <h3>Hobby :</h3>
-        <ul >
-            <li ><i>Playing game</i></li>
-            <img src="https://learningworksforkids.com/wp-content/uploads/8382505534_83fe421c15_z-640x462.jpg" width="250" height="210">
-            <li><i>Watch a movie</i></li>
-            <img src="https://sm.ign.com/ign_ap/screenshot/default/thibault-penin-3hinbcmq8ro-unsplash_cp4j.jpg" width="" height="210"></a>
-            <li><i>Sleep/Sleepy</i></li>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThTTpvuf6zHzxuZG0847wL_xDUHI9h00cing&usqp=CAU" width="250" height="210">
-        </ul>  
+    
+    
+    
+<style>
 
+body {
+  background-image: url('https://wallpaperaccess.com/full/1959300.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
+        <h1 style="color:rgb(0, 0, 0);text-align: center;font-size:50px;"><b>Nat Thitimathanyakul</b></h1>
+        <div align="center">
+        <table width=30% style="border:3px dashed plum;" cellspacing="5" bgcolor="plum" cellpadding="5"><tr><td style="border:3px dashed white;" bgcolor="white"><img src="https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.15752-9/131581413_450042149712824_743369365698914889_n.jpg?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_eui2=AeGTFr1SiN7kD12flk3Ua4zXi3RiUXS9hM6LdGJRdL2Ezq6MwayfombLKxtRFjq-AYpWxsV0HfU6m6Nf3HvMNebD&_nc_ohc=vfHzk_p1LAcAX-MhOr5&_nc_ht=scontent.fbkk12-2.fna&oh=21caff1680e96f0daf541f9b2618c7fa&oe=6004977B" width="650" height="640" ></td></tr></table>
         
+        <table width=30% style="border:3px dashed #FF6600;" cellspacing="5" bgcolor="#FF6600" cellpadding="5"><tr><td style="border:3px dashed white;" bgcolor="white" background=http://diary.yenta4.com/diary_folder/53229/53229_uploaded/BG/bk64r-05.gif>
+        <h2><u>My Nickname is Jam.</u></h2>
+        <h2 style="color:MediumSeaGreen;">ID : 620710159</h2>
+        <h2 style="color:MediumSeaGreen;">Birth date : 16/04/2544</h2>
+        <h2 style="color:MediumSeaGreen;">I am from Kanchanaburi.</h2>
+        <h2 style="color:MediumSeaGreen;">favorite color : Red,Blue</h2>
+        <h2 style="color:MediumSeaGreen;">favorite color : Red,Blue</h2>
+        <a href="https://www.facebook.com/nat.thitimatanyakul/">
+            FACEBOOK
+        </a>
+        </td></tr></table>
+        
+        
+
+     </div> 
     </body>
 </html>
