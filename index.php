@@ -28,9 +28,8 @@ body {
         <h2 style="color:MediumSeaGreen;">Birth date : 16/04/2544</h2>
         <h2 style="color:MediumSeaGreen;">I am from Kanchanaburi.</h2>
         <h2 style="color:MediumSeaGreen;">favorite color : Red,Blue</h2>
-        <h2 style="color:MediumSeaGreen;">favorite color : Red,Blue</h2>
         <a href="https://www.facebook.com/nat.thitimatanyakul/">
-            FACEBOOK
+        <h2 style="color:blue;">FACEBOOK</h2>
         </a>
         </td></tr></table>
         
